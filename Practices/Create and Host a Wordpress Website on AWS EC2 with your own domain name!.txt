@@ -1,5 +1,6 @@
 YouTube video link: https://youtu.be/8Uofkq718n8
-All the commands that are executed in the above youtube video are mentioned in this gist. 
+All the commands that are executed in the above youtube video are mentioned in this gist.
+my site:-website is hosted on http://16.16.229.139/wordpress/
 
 1. Install Apache server on Ubuntu
 sudo apt install apache2
