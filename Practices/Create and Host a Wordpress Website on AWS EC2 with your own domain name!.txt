@@ -24,7 +24,7 @@ CREATE USER 'wp_user'@localhost IDENTIFIED BY 'Testpassword@123';
 CREATE DATABASE wp ;
 
 8. Grant all privilges on the database 'wp' to the newly created user
-GRANT ALL PRIVILEGES ON wp.* TO 'wp_user'@localhost;
+GRANT ALL PRIVILEGES ON wp.* TO 'wp_user'@localhost ;
 
 9. Download wordpress
 cd /tmp
