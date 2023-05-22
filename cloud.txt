@@ -1,1 +1,1 @@
-my learnings about devOps
+my learnings about devOps and cloud
