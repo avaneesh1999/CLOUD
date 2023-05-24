@@ -1,3 +1,5 @@
+DAY 1:-
+
 link:-https://ghumare64.medium.com/deploying-infrastructure-frontend-backend-on-aws-using-amazon-eks-5f1f426d618e
 
 1.

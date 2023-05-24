@@ -1,1 +1,3 @@
-my learnings about devOps and cloud
+i will share my cloud learning journey here!!.
+
+i will try to cover all cloud concepts in Concepts section and all the project learning in Practices section.
