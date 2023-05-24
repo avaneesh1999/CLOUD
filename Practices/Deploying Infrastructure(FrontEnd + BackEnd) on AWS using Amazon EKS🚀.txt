@@ -1,0 +1,31 @@
+link:-https://ghumare64.medium.com/deploying-infrastructure-frontend-backend-on-aws-using-amazon-eks-5f1f426d618e
+
+1.
+How WordPress with MySQL backend can be hosted on AWS?
+
+-> we will learning to put whole wordpress codebase to EFS(ELASTIC FILE SYSTEM).
+
+->I know what is in your mind, If I need storage then there are storage services offered by AWS like S3 and EBS but Why Avaneesh… Why EFS?
+
+->
+.EFS is the storage option for EC2, that can be attached to more than one EC2, remember Volume can only be attached to one EC2
+.EFS is Elastic, and it is scalable ( The storage capacity will increase or decrease as you add files to it, It is not like Volume)
+.Supports the Network File System Version 4 (NFSv4) protocol
+.You only pay for the storage you use (no pre-provisioning required)
+.Can scale up to the petabytes
+
+
+2.
+Before building the project, Let’s discuss some prerequisites:
+AWS CLI with Amazon AWS account:- command used to interact with AWS console.
+Kubectl:- used to interact with k8 cluster
+Minikube:-minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
+Eksctl:-eksctl is a simple CLI tool for creating and managing clusters on EKS - Amazon's managed Kubernetes service for EC2
+Terraform CLI (Optional):-
+
+3.
+Our Objectives:
+.Create a Kubernetes cluster using AWS EKS.
+.Integrate EKS with EC2, ELB, EBS, EFS.
+.Deploying WordPress & Mysql on top of AWS EKS.
+.Using Helm: Installing & integrating Prometheus and Grafana.
