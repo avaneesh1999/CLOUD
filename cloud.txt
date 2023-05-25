@@ -1,3 +1,9 @@
 i will share my cloud learning journey here!!.
 
 i will try to cover all cloud concepts in Concepts section and all the project learning in Practices section.
+
+DAY 1:-
+
+1.types of cloud:-public,private and hybrid.
+2.services cloud offers:-IAAS,PAAS,SAAS
+3.Availability zones  and region of AWS
