@@ -1,0 +1,4 @@
+Basic knowledge of cloud computing concepts.
+Familiarity with a cloud provider (e.g., AWS) and its services.
+Understanding of IaC principles and tools like Terraform or AWS CloudFormation.
+Access to a cloud provider account and necessary permissions.
