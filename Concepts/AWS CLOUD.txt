@@ -1,3 +1,10 @@
 i am following :- https://www.youtube.com/watch?v=rKNSc8RrwxA&list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du
 
 to understand AWS Cloud.
+
+-> EC2(Elastic Compute cloud)
+-> a web service that provides secure, resizable compute capacity in the cloud.
+
+Exercises 1:-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/launch_ec2_web_instance/exercise.md
+Solution 1:-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/launch_ec2_web_instance/solution.md
+
