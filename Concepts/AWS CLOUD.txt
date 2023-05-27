@@ -7,12 +7,19 @@ https://github.com/bregman-arie/devops-exercises
 
 -> EC2(Elastic Compute cloud)
 -> a web service that provides secure, resizable compute capacity in the cloud.
-
-Exercises 1:-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/launch_ec2_web_instance/exercise.md
-Solution 1:-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/launch_ec2_web_instance/solution.md
+Exercises and solution 1:-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/launch_ec2_web_instance/exercise.md
 
 ->Security Group
 ->act as firewall b/w upcoming traffic to your application.and this firewall rules can be defined by you.
-
 Exercises 2 & solution :-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/security_groups/exercise.md
+
+->AWS EC2 - IAM Roles
+->An IAM role is an AWS identity with specific permissions that can be created in an account.
+Exercises 2 & solution:-
+https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/ec2_iam_roles/solution.md
+
+
+
+
+
 
