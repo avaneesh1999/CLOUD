@@ -11,3 +11,8 @@ https://github.com/bregman-arie/devops-exercises
 Exercises 1:-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/launch_ec2_web_instance/exercise.md
 Solution 1:-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/launch_ec2_web_instance/solution.md
 
+->Security Group
+->act as firewall b/w upcoming traffic to your application.and this firewall rules can be defined by you.
+
+Exercises 2 & solution :-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/security_groups/exercise.md
+
