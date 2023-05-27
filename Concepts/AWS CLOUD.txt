@@ -9,7 +9,7 @@ https://github.com/bregman-arie/devops-exercises
 -> a web service that provides secure, resizable compute capacity in the cloud.
 Exercises and solution 1:-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/launch_ec2_web_instance/exercise.md
 
-->Security Group
+->AWS EC2  Security Group
 ->act as firewall b/w upcoming traffic to your application.and this firewall rules can be defined by you.
 Exercises 2 & solution :-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/security_groups/exercise.md
 
@@ -17,6 +17,22 @@ Exercises 2 & solution :-https://github.com/bregman-arie/devops-exercises/blob/m
 ->An IAM role is an AWS identity with specific permissions that can be created in an account.
 Exercises 2 & solution:-
 https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/ec2_iam_roles/solution.md
+
+->AWS EC2  Spot Instances
+->Amazon EC2 Spot Instances are spare EC2 capacity that can save up to 90% off of On-Demand prices.
+exercise & solution 3:-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/create_spot_instances/solution.md
+
+->AWS EC2 - Elastic IP
+->Elastic IP address is a public static IPv4 address which is reachable from the Internet. Basically Elastic IP addresses are used by AWS to manage its dynamic cloud computing services.
+exercise and solution 4:-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/elastic_ip/solution.md
+
+->AWS EC2 - Placement Groups
+->You can use placement groups to influence the placement of a group of interdependent instances to meet the needs of your workload.
+exercise and solution 5:-https://github.com/bregman-arie/devops-exercises/blob/master/topics/aws/exercises/placement_groups/solution.md
+
+
+
+
 
 
 
