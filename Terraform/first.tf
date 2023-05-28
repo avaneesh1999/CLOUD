@@ -1,6 +1,6 @@
 # Configure the AWS provider
 provider "aws" {
-  region = "ap-south-1"  # Update with your desired AWS region
+  region = "ap-south-1"  # U pdate with your desired AWS region
 }
 
 # Create a new EC2 instance
