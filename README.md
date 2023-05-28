@@ -1,2 +1,2 @@
 # CLOUD
-MY learnings about cloud and DevOps
+MY learnings about cloud and DevOps. 
