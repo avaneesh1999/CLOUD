@@ -1,5 +1,4 @@
 # CLOUD
-<<<<<<< HEAD
 MY learnings about cloud and DevOps.
 
 # AWS
