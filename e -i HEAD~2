@@ -1,0 +1,360 @@
+[33mcommit 7f116785d2c5c614ce53816e5e739ef003fc7112[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Tue May 30 18:07:44 2023 +0530
+
+    Delete Terraform provider file
+
+ .gitattributes                                     |   1 [32m+[m
+ Certifications/AZ-900.png                          | Bin [31m0[m -> [32m43602[m bytes
+ Certifications/git-lfs-windows-v3.3.0.exe          | Bin [31m0[m -> [32m10345136[m bytes
+ Concepts/AWS CLOUD.txt                             |  41 [32m+++++++++++++++++[m
+ Concepts/OUTPUT/AWS EC2 - IAM Roles.PNG            | Bin [31m0[m -> [32m15476[m bytes
+ ...oving inbound http rule from security group.PNG | Bin [31m0[m -> [32m24469[m bytes
+ ...oving inbound http rule from security group.PNG | Bin [31m0[m -> [32m14456[m bytes
+ Concepts/OUTPUT/solution1.PNG                      | Bin [31m0[m -> [32m14777[m bytes
+ IAC PROJECT/Prerequiste.txt                        |   8 [32m++++[m
+ PROJECTS.txt                                       |  28 [32m++++++++++++[m
+ ...bsite on AWS EC2 with your own domain name!.txt |  49 [32m+++++++++++++++++++++[m
+ ...d) on AWS using Amazon EKS\360\237\232\200.txt" |  33 [32m++++++++++++++[m
+ README.md                                          |   8 [32m++++[m
+ 13 files changed, 168 insertions(+)
+
+[33mcommit f906e969989fb536e1d684eb087c94909e66f8e5[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Tue May 30 18:02:03 2023 +0530
+
+    force
+
+ .gitattributes                                     |   1 [31m-[m
+ Certifications/AZ-900.png                          | Bin [31m43602[m -> [32m0[m bytes
+ Certifications/git-lfs-windows-v3.3.0.exe          | Bin [31m10345136[m -> [32m0[m bytes
+ Concepts/AWS CLOUD.txt                             |  41 [31m-----------------[m
+ Concepts/OUTPUT/AWS EC2 - IAM Roles.PNG            | Bin [31m15476[m -> [32m0[m bytes
+ ...oving inbound http rule from security group.PNG | Bin [31m24469[m -> [32m0[m bytes
+ ...oving inbound http rule from security group.PNG | Bin [31m14456[m -> [32m0[m bytes
+ Concepts/OUTPUT/solution1.PNG                      | Bin [31m14777[m -> [32m0[m bytes
+ IAC PROJECT/Prerequiste.txt                        |   8 [31m----[m
+ PROJECTS.txt                                       |  28 [31m------------[m
+ ...bsite on AWS EC2 with your own domain name!.txt |  49 [31m---------------------[m
+ ...d) on AWS using Amazon EKS\360\237\232\200.txt" |  33 [31m--------------[m
+ README.md                                          |   8 [31m----[m
+ 13 files changed, 168 deletions(-)
+
+[33mcommit 422238667a17c8a2b93a1c0fafb7381fe4d6bbe2[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Tue May 30 17:57:37 2023 +0530
+
+    force
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 88d7ff0cfbde7ca78e31ab106d4187fc6d3af20e[m
+Merge: 24da985 3713d5e
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Tue May 30 17:56:41 2023 +0530
+
+    Merge branch 'master' of https://github.com/avaneesh1999/CLOUD
+
+[33mcommit 3713d5e799fd855a89de87067dcf2191c3d8be1c[m[33m ([m[1;31mavi/master[m[33m)[m
+Author: Avaneesh Singh <38869152+avaneesh1999@users.noreply.github.com>
+Date:   Tue May 30 17:56:14 2023 +0530
+
+    Delete Terraform directory
+
+ Terraform/first.tf | 3 [31m---[m
+ 1 file changed, 3 deletions(-)
+
+[33mcommit 24da9859de83377c00d724b54f899015ca366dab[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Tue May 30 17:51:45 2023 +0530
+
+    force push
+
+ README.md | 1 [31m-[m
+ 1 file changed, 1 deletion(-)
+
+[33mcommit c793c5ecfc1504765d5285c35ad6c9f98fd7409d[m
+Merge: 195cd35 092b5bb
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Tue May 30 17:50:40 2023 +0530
+
+    Resolve merge conflict in README.md
+
+[33mcommit 195cd3577813f7012dc95d06ba1e5e3add3a2664[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Tue May 30 17:45:08 2023 +0530
+
+    get
+
+ PROJECTS.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 092b5bb51d377b51e6fc0b9c3a82f5510fcccc25[m
+Author: Avaneesh Singh <38869152+avaneesh1999@users.noreply.github.com>
+Date:   Tue May 30 07:50:33 2023 +0530
+
+    Update README.md
+    
+    learned terraform
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit bf7ddf6d869addc08e780aab78d829622b1c4799[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Mon May 29 06:52:25 2023 +0530
+
+    terraform deleted
+
+ Terraform/.gitattributes                           |   1 [31m-[m
+ Terraform/.terraform.lock.hcl                      |  24 [31m--[m
+ .../terraform-provider-aws_v5.0.1_x5.exe           |   3 [31m-[m
+ Terraform/first.tf                                 |  94 [31m-------[m
+ Terraform/terraform.tfstate                        |   9 [31m-[m
+ Terraform/terraform.tfstate.backup                 | 299 [31m---------------------[m
+ 6 files changed, 430 deletions(-)
+
+[33mcommit b62c727a7b6370535a0cb8fb5d6db7aa7ea200df[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Mon May 29 06:49:26 2023 +0530
+
+    Resolve large file issue using LFS
+
+ .gitattributes                                     |   1 [32m+[m
+ .../terraform-provider-aws_v5.0.1_x5.exe           | Bin [31m336074240[m -> [32m134[m bytes
+ 2 files changed, 1 insertion(+)
+
+[33mcommit cf019508fb9d93119cbb900238b884ebbc8daffb[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Mon May 29 06:26:07 2023 +0530
+
+    VPC
+
+ IAC PROJECT/Prerequiste.txt        |   2 [32m+[m[31m-[m
+ Terraform/first.tf                 |  94 [32m++++++++++++++++[m[31m--[m
+ Terraform/terraform.tfstate        |   2 [32m+[m[31m-[m
+ Terraform/terraform.tfstate.backup | 199 [32m+++++++++++++++++++++++++++++++++[m[31m----[m
+ 4 files changed, 267 insertions(+), 30 deletions(-)
+
+[33mcommit ad410c579163a1f462c5a626207b316cc387be53[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Sun May 28 18:16:36 2023 +0530
+
+    pre
+
+ IAC PROJECT/Prerequiste.txt | 12 [32m++++++++[m[31m----[m
+ 1 file changed, 8 insertions(+), 4 deletions(-)
+
+[33mcommit bd2d184b0038d33096543d7116a23f51d48b885d[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Sun May 28 17:28:38 2023 +0530
+
+    resources
+
+ README.md | 10 [32m+++++++++[m[31m-[m
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+[33mcommit 60df89d13e252ffa0b49f1a8477fff63cf52c459[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Sun May 28 16:05:31 2023 +0530
+
+    Enable Git LFS for large file
+
+ Certifications/git-lfs-windows-v3.3.0.exe | Bin [31m0[m -> [32m10345136[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 10300299c7168d1b9f4dec452d5ae37eb5b973b3[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Sun May 28 15:56:58 2023 +0530
+
+    Enable Git LFS for large file
+
+ Terraform/.gitattributes | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 2882d5753915b344b3c95c61e4625f9688009d46[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Sun May 28 15:51:53 2023 +0530
+
+    just checking
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit d4ffeb5850a9636f3edad705bcc9547d662bf778[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Sun May 28 13:47:57 2023 +0530
+
+    hi
+
+ Terraform/first.tf | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit cd1de2b1927e4c43a3005efa34816164bdc23fc4[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Sun May 28 13:44:13 2023 +0530
+
+    Terrafrom refering doc
+
+ Terraform/first.tf | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 34d885da4dc2815219824153fa7d6101968c3dac[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Sun May 28 13:32:38 2023 +0530
+
+    Terrafrom refering doc
+
+ Terraform/.terraform.lock.hcl                      |  24 [32m++++[m
+ .../terraform-provider-aws_v5.0.1_x5.exe           | Bin [31m0[m -> [32m336074240[m bytes
+ Terraform/first.tf                                 |  21 [32m+++[m[31m-[m
+ Terraform/terraform.tfstate                        |   9 [32m++[m
+ Terraform/terraform.tfstate.backup                 | 138 [32m+++++++++++++++++++++[m
+ 5 files changed, 189 insertions(+), 3 deletions(-)
+
+[33mcommit ec757da6695a9857d4a9607e9f10d6105632ccb7[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Sat May 27 16:30:21 2023 +0530
+
+    aws ec2 placement group
+
+ Certifications/AZ-900.png | Bin [31m0[m -> [32m43602[m bytes
+ Concepts/AWS CLOUD.txt    |  18 [32m+++++++++++++++++[m[31m-[m
+ 2 files changed, 17 insertions(+), 1 deletion(-)
+
+[33mcommit 28cda9e43beb7f6a86da9aa8508955197dbe6438[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Sat May 27 10:07:01 2023 +0530
+
+    aws ec2 IAM
+
+ Concepts/AWS CLOUD.txt                  |  15 [32m+++++++++++[m[31m----[m
+ Concepts/OUTPUT/AWS EC2 - IAM Roles.PNG | Bin [31m0[m -> [32m15476[m bytes
+ 2 files changed, 11 insertions(+), 4 deletions(-)
+
+[33mcommit d1d232e3150eb63f910cf858bb6746516d8ff13f[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Sat May 27 09:19:02 2023 +0530
+
+    aws ex2
+
+ Concepts/AWS CLOUD.txt                                  |   5 [32m+++++[m
+ ...r removing inbound http rule from security group.PNG | Bin [31m0[m -> [32m24469[m bytes
+ ...e removing inbound http rule from security group.PNG | Bin [31m0[m -> [32m14456[m bytes
+ PROJECTS.txt                                            |   4 [32m+++[m[31m-[m
+ 4 files changed, 8 insertions(+), 1 deletion(-)
+
+[33mcommit d1839eb51a5bba4b85259b86d38ed3649f71ca7d[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Fri May 26 17:44:29 2023 +0530
+
+    Terrafrom
+
+ IAC PROJECT/Prerequiste.txt | 4 [32m++++[m
+ ROADMAP.txt => PROJECTS.txt | 0
+ Terraform/first.tf          | 3 [32m+++[m
+ cloud.txt                   | 9 [31m---------[m
+ 4 files changed, 7 insertions(+), 9 deletions(-)
+
+[33mcommit f582b8162f3b958d22a7c130bb5830fcf822a9c5[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Fri May 26 12:02:23 2023 +0530
+
+    EC2-1
+
+ Concepts/AWS CLOUD.txt | 7 [32m+++++[m[31m--[m
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+
+[33mcommit 36de073d186f9daac7719f14fb9a92bbf3ca1bf3[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Fri May 26 12:00:20 2023 +0530
+
+    EC2
+
+ Concepts/AWS CLOUD.txt        |   9 [32m++++++++[m[31m-[m
+ Concepts/OUTPUT/solution1.PNG | Bin [31m0[m -> [32m14777[m bytes
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+
+[33mcommit bf54798ca8508367fb4484752399ea43e74d1207[m
+Merge: 110cf1b a2b560b
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Thu May 25 18:21:30 2023 +0530
+
+    Merge branch 'master' of https://github.com/avaneesh1999/CLOUD
+
+[33mcommit 110cf1b43369cadbc309c3306a0e7df9c352771f[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Thu May 25 18:17:41 2023 +0530
+
+    roadmap
+
+ ROADMAP.txt | 26 [32m++++++++++++++++++++++++++[m
+ 1 file changed, 26 insertions(+)
+
+[33mcommit a2b560b127b959341314cc9b082e0e5fba66a9e1[m
+Author: Avaneesh Singh <38869152+avaneesh1999@users.noreply.github.com>
+Date:   Thu May 25 13:09:14 2023 +0530
+
+    Create README.md
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 6a30dd68648f82b3544632aaf3a49ea1b3c0efbf[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Thu May 25 13:07:58 2023 +0530
+
+    video 6
+
+ Concepts/AWS CLOUD.txt | 3 [32m+++[m
+ cloud.txt              | 8 [32m+++++++[m[31m-[m
+ 2 files changed, 10 insertions(+), 1 deletion(-)
+
+[33mcommit 457d2dcf9be4480484c273f4918ddd1af859a47c[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Wed May 24 12:24:00 2023 +0530
+
+    learning Path
+
+ ...e(FrontEnd + BackEnd) on AWS using Amazon EKS\360\237\232\200.txt" | 2 [32m++[m
+ cloud.txt                                                             | 4 [32m+++[m[31m-[m
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+
+[33mcommit 1788fddd0374cea7ecd46afbeb1c7b6c2c47c8cb[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Wed May 24 08:18:30 2023 +0530
+
+    objectives
+
+ ...d) on AWS using Amazon EKS\360\237\232\200.txt" | 31 [32m++++++++++++++++++++++[m
+ 1 file changed, 31 insertions(+)
+
+[33mcommit c442674e41fd7985c452cac63d04748ec13cb8a5[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Mon May 22 18:47:21 2023 +0530
+
+    hii
+
+ ...d Host a Wordpress Website on AWS EC2 with your own domain name!.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit c7b87dee42427eea746ed03ef1a1d2cd379496c1[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Mon May 22 17:41:00 2023 +0530
+
+    project1
+
+ ...d Host a Wordpress Website on AWS EC2 with your own domain name!.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 4799314930561087cc76f3fa151375e5f8e4c738[m
+Author: Avaneesh <avaneeshsingh1999@gmail.com>
+Date:   Mon May 22 17:38:53 2023 +0530
+
+    project1
+
+ ...bsite on AWS EC2 with your own domain name!.txt |   3 [32m++[m[31m-[m
+ Practices/MobaXterm_Installer_v23.1.zip            | Bin [31m29901804[m -> [32m0[m bytes
+ Practices/asc1881.pem                              |  27 [31m---------------------[m
+ 3 files changed, 2 insertions(+), 28 deletions(-)
