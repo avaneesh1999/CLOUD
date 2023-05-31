@@ -1,0 +1,2 @@
+#Linux For DevOps :- https://youtu.be/P90wg2SfpzM
+#exercises :-https://github.com/bregman-arie/devops-exercises/blob/master/topics/linux/README.md

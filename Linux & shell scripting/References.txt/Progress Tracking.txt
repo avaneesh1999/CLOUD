@@ -1,0 +1,4 @@
+#DAY 1:-
+
+Completed --> #Linux For DevOps :- https://youtu.be/P90wg2SfpzM
+Topics --> Linux Architecture,Linux Basic Commands,shell script,First shell script
