@@ -1,2 +1,3 @@
 #Linux For DevOps :- https://youtu.be/P90wg2SfpzM
+#Linux commands:- https://trainwithshubham.notion.site/Linux-For-DevOps-Masterclass-2556811c239142cf99c4cec6548df01a
 #exercises :-https://github.com/bregman-arie/devops-exercises/blob/master/topics/linux/README.md
