@@ -2,4 +2,5 @@ Day 1:- DevOps jargons
 Day 2:- completed Cent Os installation and basics
 Day 3:- installed vagrant
         completed basic linux commands
-Day 4:-  completed Assignments         
+Day 4:-  completed Assignments
+         intro to AWS,Linode and putty       
