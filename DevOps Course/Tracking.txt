@@ -4,4 +4,7 @@ Day 3:- installed vagrant
         completed basic linux commands
 Day 4:-  completed Assignments
          intro to AWS,Linode and putty 
-Day 5:- completed aws intro ,linode     
+Day 5:- completed aws intro ,linode 
+Day 6 :- intro to aws certifications
+         IAM user groups and policies
+         
