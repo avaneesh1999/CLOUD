@@ -12,6 +12,9 @@ Day 6 :- intro to aws certifications
 Day 7:- EC2 instances
         posted linux cheat sheet https://avaneeshsingh.hashnode.dev/linux-commands-cheat-sheet?ref=twitter-share
 
+Day 8:- basics of  bash scripting
+       
+
 
 
          
