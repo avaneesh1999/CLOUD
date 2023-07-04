@@ -15,6 +15,10 @@ Day 7:- EC2 instances
 
 Day 8:- basics of  bash scripting
         Assignments
+
+Day 9:- Shell scripting 
+        if -else statement 
+        loops
         
        
 
