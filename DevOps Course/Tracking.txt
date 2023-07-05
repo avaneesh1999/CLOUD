@@ -19,6 +19,11 @@ Day 8:- basics of  bash scripting
 Day 9:- Shell scripting 
         if -else statement 
         loops
+
+Day 10:- shell scripting
+         basics completed.
+
+
         
        
 
