@@ -24,6 +24,10 @@ Day 10:- shell scripting
          basics completed.
          Assignment 2 completed on linux
 
+Day 11 :- started ELB(Elastic load balancer) class
+          completd till 1:30
+
+
 
         
        
