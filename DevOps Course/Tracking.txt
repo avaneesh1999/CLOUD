@@ -27,6 +27,8 @@ Day 10:- shell scripting
 Day 11 :- started ELB(Elastic load balancer) class
           completd till 1:30
 
+Day 12 :- completed ELB class
+
 
 
         
