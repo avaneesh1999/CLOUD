@@ -30,6 +30,8 @@ Day 11 :- started ELB(Elastic load balancer) class
 Day 12 :- completed ELB class
           launched instance ELB
 
+Day 13:- Revision clas shell scripting         
+
 
 
         
