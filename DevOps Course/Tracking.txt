@@ -40,7 +40,8 @@ Day 15:- Completed ELB revision class
         AWS lamda
         S3
         S3 Glacier
-        Lightsail 
+        Lightsail
+        
         
 
         
