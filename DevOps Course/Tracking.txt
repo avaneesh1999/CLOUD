@@ -36,6 +36,8 @@ Day 14:- Revision class ELB
          class 35:00 min
 
 Day 15:- Completed ELB revision class
+         Elastic beanstalk
+         AWS lamnda
 
         
 
