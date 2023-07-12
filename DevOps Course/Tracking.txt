@@ -44,7 +44,11 @@ Day 15:- Completed ELB revision class
 
 Day 16:-File storage and block storage 
         EBS
-        completd till 1:22 hr        
+        completd till 1:22 hr 
+
+Day 17 :- EFS
+          AWS Cloud trail
+          AWS config       
         
 
         
