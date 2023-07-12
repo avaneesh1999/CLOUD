@@ -48,7 +48,8 @@ Day 16:-File storage and block storage
 
 Day 17 :- EFS
           AWS Cloud trail
-          AWS config       
+          AWS config
+          Types of DB in AWS       
         
 
         
